@@ -1,0 +1,215 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:2:1-50:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\9649ee68f3cfa969901a6c1bc1f5481a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\8c46dd5d45cd24c374655cb5549eafdc\AndroidManifest.xml:2:1-11:12
+MERGED from [fr.erictruong:materialedittext:0.2.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\d42c1973b9898d70327067154e8f3092\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\9744b8fc714446a9f34f1a7a55d7b0b5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\8bfe77575691855d6a7b6a5f38f946da\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\d7f31d7775ef05c7992c6947c7303c4a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\9d53ae616f82eff0b350efb2be9c8e3b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\b1bff171d54439b1b7e89280fbd94fcc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\9a4792b12e30aaab88a54588599342b2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\23b2910d09f55c875b311b6d11d28c91\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\c3a562097924cf4fc6eb9a80bc32fd93\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\1dde2607b3b4d2998413d2b06b56764d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\f231b43bea1a9b65aac4f7f9d3d15c99\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\20399331bef3c490f820ca4f37bb238a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\4f2ae22422fa06839a1b94f1f18b822f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\a8bc2c97e4b5d6cb5f71458123bcd072\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\0b698465250ad645ac4f5cc024ac5e35\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\d042741e98276ffba26fc5b66200f038\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\ea9d14afb6e8ddd446f9766fcc465085\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\2dc7bd7daef718c3d50eea3e94280b67\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\09801f3410a6e6a988389c69d932a509\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\2a675ca38203719c3db1c892928ff2dc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\19e2fcbd8a443eb16d4eafdb14fe5252\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\cf32159ee8ef6398f8700924ae3c6e35\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\222c42b3b43b74fe279a6072ed6951a3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\61d8ba215b532e73ab1166f5456ff3ac\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\828e8ed67ac4f4e307a6a1d6af833454\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\24b123cd4c3e02f9cdde104a07c2ff5f\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:4:5-45
+		INJECTED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:2:1-50:12
+		INJECTED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:2:1-50:12
+		INJECTED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:13:22-73
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:19:5-76
+	android:name
+		ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:19:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:21:5-75
+	android:name
+		ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:21:22-72
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:23:5-89
+	android:name
+		ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:23:22-86
+application
+ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:25:5-48:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\8c46dd5d45cd24c374655cb5549eafdc\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\8c46dd5d45cd24c374655cb5549eafdc\AndroidManifest.xml:9:5-20
+MERGED from [fr.erictruong:materialedittext:0.2.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\d42c1973b9898d70327067154e8f3092\AndroidManifest.xml:9:5-47
+MERGED from [fr.erictruong:materialedittext:0.2.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\d42c1973b9898d70327067154e8f3092\AndroidManifest.xml:9:5-47
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\0b698465250ad645ac4f5cc024ac5e35\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\0b698465250ad645ac4f5cc024ac5e35\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\d042741e98276ffba26fc5b66200f038\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\d042741e98276ffba26fc5b66200f038\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\0b698465250ad645ac4f5cc024ac5e35\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:30:9-35
+	android:label
+		ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:28:9-41
+	android:roundIcon
+		ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:29:9-54
+	android:icon
+		ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:27:9-43
+	android:allowBackup
+		ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:26:9-35
+	android:theme
+		ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:31:9-40
+activity#com.evloution.devicemonitoring.activity.LoginActivity
+ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:33:9-39:20
+	android:name
+		ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:33:19-57
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:34:13-38:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:37:27-74
+activity#com.evloution.devicemonitoring.activity.MainActivity
+ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:40:9-59
+	android:name
+		ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:40:19-56
+activity#com.evloution.devicemonitoring.activity.RegisterActivity
+ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:41:9-63
+	android:name
+		ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:41:19-60
+meta-data#com.amap.api.v2.apikey
+ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:43:9-45:64
+	android:value
+		ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:45:13-61
+	android:name
+		ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:44:13-50
+service#com.amap.api.location.APSService
+ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:47:9-76
+	android:name
+		ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml:47:18-65
+uses-sdk
+INJECTED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\9649ee68f3cfa969901a6c1bc1f5481a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\9649ee68f3cfa969901a6c1bc1f5481a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\8c46dd5d45cd24c374655cb5549eafdc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\8c46dd5d45cd24c374655cb5549eafdc\AndroidManifest.xml:5:5-7:41
+MERGED from [fr.erictruong:materialedittext:0.2.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\d42c1973b9898d70327067154e8f3092\AndroidManifest.xml:5:5-7:41
+MERGED from [fr.erictruong:materialedittext:0.2.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\d42c1973b9898d70327067154e8f3092\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\9744b8fc714446a9f34f1a7a55d7b0b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\9744b8fc714446a9f34f1a7a55d7b0b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\8bfe77575691855d6a7b6a5f38f946da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\8bfe77575691855d6a7b6a5f38f946da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\d7f31d7775ef05c7992c6947c7303c4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\d7f31d7775ef05c7992c6947c7303c4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\9d53ae616f82eff0b350efb2be9c8e3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\9d53ae616f82eff0b350efb2be9c8e3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\b1bff171d54439b1b7e89280fbd94fcc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\b1bff171d54439b1b7e89280fbd94fcc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\9a4792b12e30aaab88a54588599342b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\9a4792b12e30aaab88a54588599342b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\23b2910d09f55c875b311b6d11d28c91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\23b2910d09f55c875b311b6d11d28c91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\c3a562097924cf4fc6eb9a80bc32fd93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\c3a562097924cf4fc6eb9a80bc32fd93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\1dde2607b3b4d2998413d2b06b56764d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\1dde2607b3b4d2998413d2b06b56764d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\f231b43bea1a9b65aac4f7f9d3d15c99\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\f231b43bea1a9b65aac4f7f9d3d15c99\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\20399331bef3c490f820ca4f37bb238a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\20399331bef3c490f820ca4f37bb238a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\4f2ae22422fa06839a1b94f1f18b822f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\4f2ae22422fa06839a1b94f1f18b822f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\a8bc2c97e4b5d6cb5f71458123bcd072\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\a8bc2c97e4b5d6cb5f71458123bcd072\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\0b698465250ad645ac4f5cc024ac5e35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\0b698465250ad645ac4f5cc024ac5e35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\d042741e98276ffba26fc5b66200f038\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\d042741e98276ffba26fc5b66200f038\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\ea9d14afb6e8ddd446f9766fcc465085\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\ea9d14afb6e8ddd446f9766fcc465085\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\2dc7bd7daef718c3d50eea3e94280b67\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\2dc7bd7daef718c3d50eea3e94280b67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\09801f3410a6e6a988389c69d932a509\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\09801f3410a6e6a988389c69d932a509\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\2a675ca38203719c3db1c892928ff2dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\2a675ca38203719c3db1c892928ff2dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\19e2fcbd8a443eb16d4eafdb14fe5252\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\19e2fcbd8a443eb16d4eafdb14fe5252\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\cf32159ee8ef6398f8700924ae3c6e35\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\cf32159ee8ef6398f8700924ae3c6e35\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\222c42b3b43b74fe279a6072ed6951a3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\222c42b3b43b74fe279a6072ed6951a3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\61d8ba215b532e73ab1166f5456ff3ac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\61d8ba215b532e73ab1166f5456ff3ac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\828e8ed67ac4f4e307a6a1d6af833454\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\828e8ed67ac4f4e307a6a1d6af833454\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\24b123cd4c3e02f9cdde104a07c2ff5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Evloution_\.gradle\caches\transforms-2\files-2.1\24b123cd4c3e02f9cdde104a07c2ff5f\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Evloution_\android_space\android_evloution_space\devicemonitoring\src\main\AndroidManifest.xml

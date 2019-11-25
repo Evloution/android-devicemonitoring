@@ -1,0 +1,44 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:showDividers="middle"
+    android:padding="10dp"
+    android:background="@drawable/info_shape"
+    android:divider="@drawable/line_shape"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/device_info_devicecode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/device_info_latitude"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/device_info_longitude"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <!--<TextView
+        android:id="@+id/device_info_deviceip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />-->
+
+    <TextView
+        android:id="@+id/device_info_devicepm25"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/device_info_devicehumidity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/device_info_devicetemperature"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</LinearLayout>
